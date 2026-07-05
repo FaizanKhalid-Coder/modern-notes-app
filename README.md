@@ -158,6 +158,8 @@ All APIs are tested using **Bruno API Client**, making it easy to validate endpo
 
 # 📸 Screenshots
 
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/fbf7048a-7ccf-48c4-833e-56b425452b1b" />
+
 * 🖥️ Dashboard
 * 🔐 Authentication
 * 📊 Analytics
